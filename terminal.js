@@ -67,7 +67,7 @@ let rootCmds = {
     "get linkedin" : "https://www.linkedin.com/in/yuvraj-singh-kumpavat/",
     "get itch.io" : "https://yuvraj24.itch.io",
     "get github" : "https://github.com/Euphorus",
-    "get resume" : "assets/Yuvraj_Kumpavat_Resume.pdf",
+    "get resume" : "assets/Yuvraj_Kumpavat_CV.pdf",
     "cd themes" : "Here are some themes you can change into: ",
 };
 
