@@ -64,7 +64,6 @@ let rootCmds = {
                     I'm a simple man, I love simple stuff.<br/></div>`,
     "certificates" : ["Learn C - Codecademy", "Learn C++ - Codecademy", "Learn Linear Algebra - Codecademy"],
     "experience" : ["Lead Senior Programmer for Collaborative Games Development 2025", "Gameplay Programmer for Global Games Jam 2025"],
-    "get linkedin" : "https://www.linkedin.com/in/yuvraj-singh-kumpavat/",
     "get itch.io" : "https://yuvraj24.itch.io",
     "get github" : "https://github.com/Euphorus",
     "get resume" : "assets/Yuvraj_Kumpavat_CV.pdf",
