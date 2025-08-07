@@ -66,7 +66,7 @@ let rootCmds = {
     "experience" : ["Lead Senior Programmer for Collaborative Games Development 2025", "Gameplay Programmer for Global Games Jam 2025"],
     "get itch.io" : "https://yuvraj24.itch.io",
     "get github" : "https://github.com/Euphorus",
-    "get resume" : "assets/Yuvraj_Kumpavat_CV.pdf",
+    "get resume" : "assets/Yuvraj_Resume.pdf",
     "cd themes" : "Here are some themes you can change into: ",
 };
 
